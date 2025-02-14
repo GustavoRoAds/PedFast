@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/07/17 19:44:30.000.886,=C:\Users\VM02-02-2024\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/17 19:44:47.000.418,C:\PedFast\Unit1.pas=C:\Users\VM02-02-2024\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/07/17 19:44:47.000.418,C:\PedFast\Unit1.dfm=C:\Users\VM02-02-2024\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/07/17 19:45:00.000.668,C:\PedFast\PedFast.dproj=C:\Users\VM02-02-2024\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/07/28 12:14:42.000.524,=C:\PedFast\Unit2.pas</Transaction>
+    <Transaction>2024/07/28 12:15:14.000.164,C:\PedFast\UnitPrincipal.dfm=C:\PedFast\Unit2.dfm</Transaction>
+    <Transaction>2024/07/28 12:15:14.000.164,C:\PedFast\UnitPrincipal.pas=C:\PedFast\Unit2.pas</Transaction>
+    <Transaction>2024/07/28 12:44:39.000.110,=C:\PedFast\Utils\Vcl.Loading.pas</Transaction>
+    <Transaction>2024/07/28 13:04:48.000.131,=C:\PedFast\Unit2.pas</Transaction>
+    <Transaction>2024/07/28 13:05:16.000.960,C:\PedFast\Unit2.pas=C:\PedFast\Utils\Vcl.session.pas</Transaction>
+    <Transaction>2024/07/28 17:39:00.468,=C:\PedFast\Utils\Vcl.Navigation.pas</Transaction>
+    <Transaction>2024/07/28 17:42:14.876,=C:\PedFast\Unit2.pas</Transaction>
+    <Transaction>2024/07/28 17:42:32.031,C:\PedFast\UnitPedido.dfm=C:\PedFast\Unit2.dfm</Transaction>
+    <Transaction>2024/07/28 17:42:32.031,C:\PedFast\UnitPedido.pas=C:\PedFast\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>
